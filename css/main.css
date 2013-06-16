@@ -1,0 +1,25 @@
+	body {
+		color: #FFF;
+		background: url(../img/mod_bg.jpg) repeat #282828;
+		font-family: 'Special Elite', cursive;
+	}
+
+	.main {
+		width: 960px;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	h1 {
+		font-size: 72px;
+	}
+
+	h2 {
+		font-size: 38px;
+		margin-top: 50px;
+	}
+
+	h2 span {
+		margin-left: 20px;
+		font-size: 28px;
+	}
