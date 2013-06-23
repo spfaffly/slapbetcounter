@@ -2,7 +2,7 @@ $(document).ready(function(){
 	var myCountdown1 = new Countdown({
 							width:900,
 							height:200,
-							rangeHi:"day",
+							rangeHi:"month",
 							target: "slapbetcounter",
 							style:"flip",
 							labels	:	{
